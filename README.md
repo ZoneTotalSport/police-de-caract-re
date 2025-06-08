@@ -1,2 +1,2 @@
-# police-de-caract-re
+# police-de-caractere
 police de caractère
